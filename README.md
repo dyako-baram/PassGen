@@ -4,7 +4,7 @@ a command line password generator
 
 ## installation guide
 ---
-install the nuget package from <a href=""> here</a> 
+install the nuget package from <a href="https://github.com/dyako-baram/PassGen/releases/download/v1.0.0/PassGen.1.0.0.nupkg"> here</a> 
 
 __Note : dotnet 7 is required__
 
